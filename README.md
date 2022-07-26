@@ -11,7 +11,7 @@
 
 **UI Credit**
 
-- Design by: Shahidul Islam Shishir [link](https://www.uplabs.com/posts/daily-exercises-app-freebie)
+- Design by:Ammar Shabbir[link](https://www.uplabs.com/posts/daily-exercises-app-freebie)
 
 There are two pages, you can call it home page and details or meditation page. On the home page at the top right corner you got a menu button, then a big good morning for you. After that a search bar with a rounded corner, then a list of exercises for you. Lastly, at the bottom you got a Botton navigation bar.
 
